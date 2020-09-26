@@ -1,0 +1,10 @@
+{
+  "development": {
+    "apiUrl": "https://thehuelounge.huehairlounge.com",
+    "contentApiKey": "de48456ba886e1947e8c2df50e"
+  },
+  "production": {
+    "apiUrl": "https://thehuelounge.huehairlounge.com",
+    "contentApiKey": "de48456ba886e1947e8c2df50e"
+  }
+}

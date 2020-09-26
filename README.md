@@ -1,2 +1,3 @@
-# HueHairLounge
-Hair Salon website, blog, and scheduler 
+# Hue Hair Lounge
+
+This a blog, an appointment scheduler, google map integration, and contact page for Hue Hair Lounge. 
