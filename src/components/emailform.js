@@ -98,7 +98,7 @@ class EmailForm extends React.Component{
                         <button type="submit" id="form-btn" >{ this.state.buttonText }</button>
                         <Recaptcha
                             ref={ ref => this.recaptcha = ref }
-                            sitekey="6LeftqgZAAAAAEeTyJvLpHPC4Dyks3uCcWK_VTji"
+                            sitekey="*sitekey*"
                             onResolved={ this.onResolved }
                         />
                 </form>
