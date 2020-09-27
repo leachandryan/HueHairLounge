@@ -28,12 +28,12 @@ class EmailForm extends React.Component{
 
             axios({
                 method: "POST", 
-                url:'https://mailer.employthisguy.com/api/v1', 
+                url:'*yoursitekey*', 
                 crossDomain: "true",
                 contentType: "application/x-www-form-urlencoded; charset=utf-8",
                 data: {
-                    ToEmail:'huehairlounge@gmail.com',
-                    FromEmail:'donotreply@huehairlounge.com',
+                    ToEmail:'*toemail',
+                    FromEmail:'*fromemail*',
                     name: name,   
                     email: email,  
                     tel: tel,
